@@ -317,6 +317,6 @@ stateDiagram-v2
 - `Drivers/` 下的 STM32U5 HAL 驱动与 CMSIS 组件版权归 STMicroelectronics / Arm 所有，按其各自许可证分发。
 - 应用层代码（`Core/` 下用户编写部分）用于学习与作品展示，仓库暂未声明开源许可证，如需引用或复用请联系作者。
 
-**作者**：Yifan Huang（黄熠凡）· 物联网工程 · [GitHub @A-goldstar](https://github.com/A-goldstar)
+**作者**： [GitHub @A-goldstar](https://github.com/A-goldstar)
 
 > 调试舵机时请使用独立稳压电源并固定机器人，避免堵转过热或突然动作造成损坏。
